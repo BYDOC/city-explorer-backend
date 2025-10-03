@@ -1,0 +1,16 @@
+C:\repos\city-explorer\backend\CityExplorer.Business\bin\Debug\net8.0\CityExplorer.Business.deps.json
+C:\repos\city-explorer\backend\CityExplorer.Business\bin\Debug\net8.0\CityExplorer.Business.dll
+C:\repos\city-explorer\backend\CityExplorer.Business\bin\Debug\net8.0\CityExplorer.Business.pdb
+C:\repos\city-explorer\backend\CityExplorer.Business\bin\Debug\net8.0\CityExplorer.Data.dll
+C:\repos\city-explorer\backend\CityExplorer.Business\bin\Debug\net8.0\CityExplorer.Data.pdb
+C:\repos\city-explorer\backend\CityExplorer.Business\obj\Debug\net8.0\CityExplorer.Business.csproj.AssemblyReference.cache
+C:\repos\city-explorer\backend\CityExplorer.Business\obj\Debug\net8.0\CityExplorer.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\city-explorer\backend\CityExplorer.Business\obj\Debug\net8.0\CityExplorer.Business.AssemblyInfoInputs.cache
+C:\repos\city-explorer\backend\CityExplorer.Business\obj\Debug\net8.0\CityExplorer.Business.AssemblyInfo.cs
+C:\repos\city-explorer\backend\CityExplorer.Business\obj\Debug\net8.0\CityExplorer.Business.csproj.CoreCompileInputs.cache
+C:\repos\city-explorer\backend\CityExplorer.Business\obj\Debug\net8.0\CityExplorer.Business.sourcelink.json
+C:\repos\city-explorer\backend\CityExplorer.Business\obj\Debug\net8.0\CityExpl.471268BA.Up2Date
+C:\repos\city-explorer\backend\CityExplorer.Business\obj\Debug\net8.0\CityExplorer.Business.dll
+C:\repos\city-explorer\backend\CityExplorer.Business\obj\Debug\net8.0\refint\CityExplorer.Business.dll
+C:\repos\city-explorer\backend\CityExplorer.Business\obj\Debug\net8.0\CityExplorer.Business.pdb
+C:\repos\city-explorer\backend\CityExplorer.Business\obj\Debug\net8.0\ref\CityExplorer.Business.dll

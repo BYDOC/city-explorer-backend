@@ -1,0 +1,12 @@
+C:\repos\city-explorer\backend\CityExplorer.Data\bin\Debug\net8.0\CityExplorer.Data.deps.json
+C:\repos\city-explorer\backend\CityExplorer.Data\bin\Debug\net8.0\CityExplorer.Data.dll
+C:\repos\city-explorer\backend\CityExplorer.Data\bin\Debug\net8.0\CityExplorer.Data.pdb
+C:\repos\city-explorer\backend\CityExplorer.Data\obj\Debug\net8.0\CityExplorer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\city-explorer\backend\CityExplorer.Data\obj\Debug\net8.0\CityExplorer.Data.AssemblyInfoInputs.cache
+C:\repos\city-explorer\backend\CityExplorer.Data\obj\Debug\net8.0\CityExplorer.Data.AssemblyInfo.cs
+C:\repos\city-explorer\backend\CityExplorer.Data\obj\Debug\net8.0\CityExplorer.Data.csproj.CoreCompileInputs.cache
+C:\repos\city-explorer\backend\CityExplorer.Data\obj\Debug\net8.0\CityExplorer.Data.sourcelink.json
+C:\repos\city-explorer\backend\CityExplorer.Data\obj\Debug\net8.0\CityExplorer.Data.dll
+C:\repos\city-explorer\backend\CityExplorer.Data\obj\Debug\net8.0\refint\CityExplorer.Data.dll
+C:\repos\city-explorer\backend\CityExplorer.Data\obj\Debug\net8.0\CityExplorer.Data.pdb
+C:\repos\city-explorer\backend\CityExplorer.Data\obj\Debug\net8.0\ref\CityExplorer.Data.dll

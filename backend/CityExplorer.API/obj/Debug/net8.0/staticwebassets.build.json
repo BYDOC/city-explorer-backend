@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HJPm2s7uoFmY0RSEuhB1dfCtEFkC3PLGpKDVAh70z3Q=",
+  "Source": "CityExplorer.API",
+  "BasePath": "_content/CityExplorer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
